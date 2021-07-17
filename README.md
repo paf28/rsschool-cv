@@ -1,1 +1,1 @@
-# rsschool-cv
+https://paf28.github.io/rsschool-cv/cv
