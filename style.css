@@ -1,7 +1,13 @@
-#head {
-    background-color: rgba(201, 147, 147, 0.192);
-    height: 100px;
+.one {
     text-align: center;
-    padding: 5px;
-    
+    background-color: blanchedalmond;
+    font-style: italic;
+}
+
+.two {
+    display: flex;
+}
+
+.three {
+    display: flex;
 }
