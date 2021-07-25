@@ -1,0 +1,13 @@
+.one {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-style: italic;
+}
+
+.two {
+    display: flex;
+}
+
+.three {
+    display: flex;
+}
